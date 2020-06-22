@@ -2,21 +2,16 @@ $colorUno: #f9ed69;
 $colorDos: #f08a5d;
 $colorTres: #b83b5e;
 $colorCuatro: #6a2c70;
+
+header {
+  height: 200px;
+  background-color: $colorUno;
+}
 section {
-  background: $colorUno;
-  h1 {
-    background: $colorDos;
-  }
-  h2 {
-    background: $colorTres;
-  }
+  height: 200px;
+  background-color: $colorDos;
 }
 footer {
-  background: #444;
-  h4 {
-    color: red;
-    a {
-      color: blue;
-    }
-  }
+  height: 200px;
+  background-color: $colorTres;
 }
