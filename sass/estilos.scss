@@ -1,17 +1,7 @@
-$colorUno: #f9ed69;
-$colorDos: #f08a5d;
-$colorTres: #b83b5e;
-$colorCuatro: #6a2c70;
-
-header {
-  height: 200px;
-  background-color: $colorUno;
-}
+@import "variables";
+@import "header";
 section {
   height: 200px;
   background-color: $colorDos;
 }
-footer {
-  height: 200px;
-  background-color: $colorTres;
-}
+@import "footer";

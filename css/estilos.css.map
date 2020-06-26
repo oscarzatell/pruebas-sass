@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/estilos.scss"],"names":[],"mappings":"AAKA;EACE;EACA,kBAPS;;;AASX;EACE;EACA,kBAVS;;;AAYX;EACE;EACA,kBAbU","file":"estilos.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_header.scss","../sass/_variables.scss","../sass/estilos.scss","../sass/_footer.scss"],"names":[],"mappings":"AAAA;EACE;EACA,kBCFS;;;ACEX;EACE;EACA,kBDHS;;;AEDX;EACE;EACA","file":"estilos.css"}
