@@ -1,3 +1,25 @@
+.cuadrado-1 {
+  background-color: #444;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
 
+.cuadrado-2 {
+  background-color: #444;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.cuadrado-3 {
+  background-color: #444;
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 10px;
+}
 
 /*# sourceMappingURL=mixins.css.map */
